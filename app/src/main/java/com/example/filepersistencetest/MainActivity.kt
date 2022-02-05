@@ -55,5 +55,4 @@ class MainActivity : AppCompatActivity() {
         }
         return content.toString()
     }
-    //这条注释是用来测试的
 }
